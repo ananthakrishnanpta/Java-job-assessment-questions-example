@@ -7,4 +7,4 @@ Job assessment questions and solution examples
 - For example, for array {1,2,4,1,2}. the sequence 1,2,4 is increasing. 
 - Removing 4 is the minimum no. of changes required so that no set of3 consecutive numbers in the array is increasing or decreasing. 
 - Thereby making it {1,2,1,2}
- - [Solution](path%20with%20spaces/java 1.java)
+ - [Solution](https://github.com/ananthakrishnanpta/Java-job-assessment-questions-example/edit/main/README.md/java 1.java)
